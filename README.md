@@ -54,6 +54,21 @@
         </tr>
 </table>
 
+## Round A
+
+<table>
+        <thead>
+            <th>Question</th>
+            <th>Test Set 1</th>
+            <th>Test Set 2</th>
+        </thead>
+        <tr>
+            <td>Speed Typing</td>
+            <td><a href="https://github.com/Ashrockzzz2003/Google_Kickstart/blob/main/Google_Kickstart_2022/Round_A/speed_typing.py">speed_typing.py</a></td>
+            <td><a href="https://github.com/Ashrockzzz2003/Google_Kickstart/blob/main/Google_Kickstart_2022/Round_A/speed_typing.py">speed_typing.py</a></td>
+        </tr>
+</table>
+
 Solved by,
 
 `Ashwin Narayanan S`
