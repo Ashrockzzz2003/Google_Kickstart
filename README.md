@@ -67,6 +67,11 @@
             <td><a href="https://github.com/Ashrockzzz2003/Google_Kickstart/blob/main/Google_Kickstart_2022/Round_A/speed_typing.py">speed_typing.py</a></td>
             <td><a href="https://github.com/Ashrockzzz2003/Google_Kickstart/blob/main/Google_Kickstart_2022/Round_A/speed_typing.py">speed_typing.py</a></td>
         </tr>
+        <tr>
+            <td>Challenge Nine</td>
+            <td><a href="https://github.com/Ashrockzzz2003/Google_Kickstart/blob/main/Google_Kickstart_2022/Round_A/challenge_nine.cpp">challenge_nine.py</a></td>
+            <td><a href="https://github.com/Ashrockzzz2003/Google_Kickstart/blob/main/Google_Kickstart_2022/Round_A/challenge_nine.cpp">challenge_nine.py</a></td>
+        </tr>
 </table>
 
 Solved by,
