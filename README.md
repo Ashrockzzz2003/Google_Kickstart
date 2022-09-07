@@ -64,8 +64,14 @@
         </thead>
         <tr>
             <td>Speed Typing</td>
-            <td><a href="https://github.com/Ashrockzzz2003/Google_Kickstart/blob/main/Google_Kickstart_2022/Round_A/speed_typing.py">speed_typing.py</a></td>
-            <td><a href="https://github.com/Ashrockzzz2003/Google_Kickstart/blob/main/Google_Kickstart_2022/Round_A/speed_typing.py">speed_typing.py</a></td>
+            <td>
+                <a href="https://github.com/Ashrockzzz2003/Google_Kickstart/blob/main/Google_Kickstart_2022/Round_A/speed_typing.py">speed_typing.py</a><br>
+                <a href="https://github.com/Ashrockzzz2003/Google_Kickstart/blob/main/Google_Kickstart_2022/Round_A/speed_typing.cpp">speed_typing.cpp[Efficient]</a>
+            </td>
+            <td>
+                <a href="https://github.com/Ashrockzzz2003/Google_Kickstart/blob/main/Google_Kickstart_2022/Round_A/speed_typing.py">speed_typing.py</a><br>
+                <a href="https://github.com/Ashrockzzz2003/Google_Kickstart/blob/main/Google_Kickstart_2022/Round_A/speed_typing.cpp">speed_typing.cpp[Efficient]</a>
+            </td>
         </tr>
         <tr>
             <td>Challenge Nine</td>
