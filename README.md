@@ -32,6 +32,11 @@
             <td><a href="https://github.com/Ashrockzzz2003/Google_Kickstart/blob/main/Google_Kickstart_2022/Practice_Session_%233/gbus_count.cpp">gbus_count.cpp</a></td>
             <td><a href="https://github.com/Ashrockzzz2003/Google_Kickstart/blob/main/Google_Kickstart_2022/Practice_Session_%233/gbus_count.cpp">gbus_count.cpp</a></td>
         </tr>
+        <tr>
+            <td>Sherlock And Watson Gym Secrets</td>
+            <td><a href="https://github.com/Ashrockzzz2003/Google_Kickstart/blob/main/Google_Kickstart_2022/Practice_Session_%233/sherlock_and_watson_gym_secrets.cpp">sherlock_and_watson_gym_secrets.cpp</a></td>
+            <td><a href="https://github.com/Ashrockzzz2003/Google_Kickstart/blob/main/Google_Kickstart_2022/Practice_Session_%233/sherlock_and_watson_gym_secrets.cpp">sherlock_and_watson_gym_secrets.cpp</a></td>
+        </tr>
     </table>
 
 ## Round E
