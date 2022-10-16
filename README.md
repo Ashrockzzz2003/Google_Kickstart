@@ -4,6 +4,14 @@
 
 <h1>Google Kickstart 2022</h1>
 
+## Round_G
+
+| Question | Test Set 1 | Test Set 2 |
+| -------- | ---------- | ---------- |
+| Walktober | [walktober.cpp](https://github.com/Ashrockzzz2003/Google_Kickstart/blob/main/Google_Kickstart_2022/Round_G/walktober.cpp) | [walktober.cpp](https://github.com/Ashrockzzz2003/Google_Kickstart/blob/main/Google_Kickstart_2022/Round_G/walktober.cpp) |
+| Curling | [curling.cpp](https://github.com/Ashrockzzz2003/Google_Kickstart/blob/main/Google_Kickstart_2022/Round_G/curling.cpp) | - |
+| Happy SubArrays | [happy_subarrays.cpp](https://github.com/Ashrockzzz2003/Google_Kickstart/blob/main/Google_Kickstart_2022/Round_G/happy_subarrays.cpp) | - |
+
 ## Round_F
 
 | Question | Test Set 1 | Test Set 2 |
